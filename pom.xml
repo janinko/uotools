@@ -18,6 +18,16 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>github-ultimasdk</id>
+            <url>https://maven.pkg.github.com/janinko/*</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <build>
         <plugins>
             <plugin>
