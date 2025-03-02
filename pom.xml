@@ -20,7 +20,7 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>github-ultimasdk</id>
+            <id>github</id>
             <url>https://maven.pkg.github.com/janinko/*</url>
             <snapshots>
                 <enabled>true</enabled>
